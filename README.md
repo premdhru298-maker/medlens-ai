@@ -2,6 +2,9 @@
 
 An AI-powered clinical communication web application built with **Next.js (App Router, TypeScript)**, **Tailwind CSS**, and **Google Gemini API (`gemini-3.5-flash` with automatic fallback)**.
 
+🔗 **Live Deployed App:** [https://medlens-ai-theta.vercel.app](https://medlens-ai-theta.vercel.app)  
+📦 **GitHub Repository:** [https://github.com/premdhru298-maker/medlens-ai](https://github.com/premdhru298-maker/medlens-ai)
+
 > **Disclaimer:** MedLens AI provides educational health information only and is **not** a substitute for professional medical diagnosis, advice, or treatment. Always consult a qualified physician for medical decisions.
 
 ---
